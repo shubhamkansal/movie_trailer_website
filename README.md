@@ -12,7 +12,7 @@ This is a server-side code written in Python to store the list of your movies in
 ## Information about files
 * media.py file contains a class Movie that provides a way to store movie information.
 * entertainment_center.py file is used to create various objects of Movie class.
-* fresh_tomatoes.py file contains open_movies_page() function that opens the website.
+* fresh_tomatoes.py file contains `open_movies_page()` function that opens the website.
 * fresh_tomatoes.html is the html file corresponding to the webpage.
 * Other files contains images that are used in the website.
 
